@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @VoidableMethod
+- 👀 I’m interested in programming, basketball and IT.
+- 🌱 I’m currently learning Python and Node.JS
+- 💞️ I’m looking to collaborate on authentication systems and Discord bots.
+- 📫 How to reach me:
+- 📝 Discord: VoidableMethod#8957
+- 💬 Server: https://discord.gg/nYVwNfYsMR
